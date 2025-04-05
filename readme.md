@@ -1,7 +1,7 @@
 # Lung Cancer Classification using InceptionV3
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-orange)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Deep learning model for histological lung cancer classification using InceptionV3 with Transfer Learning.
